@@ -33,7 +33,7 @@ app.post('/contact/send', function(req,res){
 		service:'Gmail',
 		auth: {
 			user:'bhartendu7285@gmail.com',
-			pass: 'lafangeparinde'
+			pass: 'your Password'
 		}
 	});
 
